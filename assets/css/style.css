@@ -1,0 +1,58 @@
+h1 {
+    width: 70%;
+    border: 2px dashed violet;
+    padding: 10px 40px;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h2 {
+    width: 70%;
+    border: 2px solid violet;
+    box-shadow: 2px 0px 10px violet;
+    padding: 10px 40px;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h3 {
+    width: 70%;
+    border: 2px  double violet;
+    
+    padding: 10px 40px;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+p {
+    width: 60%;
+    padding: 20px;
+    border: 1px solid tomato;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+ol, ul {
+    width: 60%;
+    padding: 20px;
+    border: 1px solid orange;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+li {
+    margin: 10px 30px;
+    border-bottom: 1px solid greenyellow;
+}
